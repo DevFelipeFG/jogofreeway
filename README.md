@@ -47,6 +47,7 @@ Detecção de colisões com reinício de posição
 Sons de colisão e ponto
 
 📦 Estrutura do Projeto
+
 jogofreeway/
 ├── imagens/
 │   ├── galinha.png
